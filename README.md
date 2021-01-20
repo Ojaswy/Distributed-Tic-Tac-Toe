@@ -1,6 +1,7 @@
 ```### Distributed-Tic-Tac-Toe```
 
 Features of this Project:
+
 • This Project makes use of the Java Remote Method Invocation API. With
 the help of RMI we can allow an object to invoke methods on an object
 running in another JVM. It is provided in the package java.rmi
@@ -21,7 +22,7 @@ is printed on the client’s terminal
 • Players are teamed in the order which they join and the player connected
 first will be asked to make the first move
 
-• The Board will be a 3x3 square as seen below, and during your turn, you
+• The Board will be a 3x3 square, and during your turn, you
 will be required to enter an integer between 1 and 9, and the corresponding
 block will be marked with your marker(x or o)
 

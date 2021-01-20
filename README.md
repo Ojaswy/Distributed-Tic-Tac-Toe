@@ -1,6 +1,6 @@
 ### ``` Distributed-Tic-Tac-Toe```
 
-Features of this Project:
+FEATURES:
 
 • This Project makes use of the Java Remote Method Invocation API. With
 the help of RMI we can allow an object to invoke methods on an object
@@ -36,3 +36,11 @@ user will lose their chance
 be printed on the screen of both the users
 
 • The Players have the option to restart the match after it has ended
+
+EXECUTION:
+
+In the Project Directory,
+1. In a new terminal, Run ./make.sh
+2. In a new terminal, Run java Server
+3. In a new terminal, Run java Client - This will be Player 1
+4. In a new terminal, Run java Client - This will be Player 2
